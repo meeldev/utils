@@ -1,3 +1,3 @@
-module github.com/meeldev/utils/v2
+module github.com/meeldev/utils/v3
 
 go 1.18
